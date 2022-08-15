@@ -119,11 +119,7 @@
 		<name>CustomObject</name>
 	</types>
 	<types>
-		<members>Yacht_Book_Of_Flow</members>
-		<name>Flow</name>
-	</types>
-	<types>
-		<members>Yacht_Book_Of_Flow</members>
+		<members>CruiseShip</members>
 		<name>FlowDefinition</name>
 	</types>
 	<types>
